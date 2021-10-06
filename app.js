@@ -6,6 +6,8 @@ const textResults = document.getElementById('questionResults');
 
 
 
+
+
 // initialize global state
 
 

@@ -3,9 +3,44 @@ body{
 
 };
 
-.getAnswer{
-    margin-top: 203px;
+
+.text{
+font-size: pt;
+text-align: left;
+}
+
+#questionResults{
+    display: flex;
+    padding-left: 950px;
+    width: 30px;
+    padding-top: 80px;
+    font-size: 35pt;
+    text-align: left;
+    font-family: 'Acme', sans-serif;
+    color: yellow;
+}
+
+
+#getAnswer{
+    margin-top: 20px;
+}
+
+
+.answer{
+    margin-left: 900px;
+    margin-top: 4px;
+    border-radius: 40px;
+    font-size: 30px;
+    width: 300px;
 }
 
 .submit{
-   
+    margin-top: 42px;
+    border-radius: 40px;
+    margin-left: 800px;
+    height: 200px;
+    width: 500px;
+    font-size: 20pt;
+  
+
+};
