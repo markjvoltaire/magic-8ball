@@ -21,14 +21,13 @@ const textResults = document.getElementById('questionResults');
 // set event listeners
 getFourtune.addEventListener('click', ()=> {
     textResults.textContent = outcome[randomIndx];
-//console.log('hello');
+
 
 });
 
 
 
 
-//getFourtune.addEventListener('click', ()=>{
 
 //});
   // get user input
